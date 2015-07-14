@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.030128mm"
+   height="15.012172mm"
+   viewBox="0 0 127.66581 53.192734"
+   id="svg10220"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="glider.svg">
+  <defs
+     id="defs10222" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-74.816962"
+     inkscape:cy="4.1913745"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1196"
+     inkscape:window-height="1878"
+     inkscape:window-x="2400"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata10225">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-210.45281,-448.60727)">
+    <path
+       id="path20292"
+       style="overflow:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:2.6099999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 274.28587,450.10727 c -0.69362,0 -1.06416,1.05464 -1.42383,2.44924 -0.79653,3.08855 -1.28534,6.40965 -1.04077,11.51592 l -58.87318,1.13816 c -0.60992,0.0119 -1.04059,0.85985 -0.99048,2.70032 l 28.26477,2.04094 32.18777,1.72103 1.28033,22.19874 -9.1093,1.26629 c -0.27782,0.0386 -0.54929,0.3575 -0.54929,0.63783 l 0,2.26763 9.91251,0.44588 c 0.0289,0.41597 0.0672,0.83328 0.1151,1.23489 l 0.22637,1.89811 m 0,-51.51498 c 0.69379,0 1.06366,1.05464 1.42366,2.44924 0.79703,3.08855 1.28517,6.40965 1.04059,11.51592 l 58.87352,1.138 c 0.60959,0.0119 1.04043,0.85984 0.99015,2.70031 l -28.2646,2.04094 -32.18778,1.72103 -1.28048,22.19891 9.10946,1.26629 c 0.27798,0.0386 0.54945,0.3575 0.54945,0.63783 l 0,2.26763 -9.91267,0.44588 c -0.0291,0.41597 -0.0673,0.83328 -0.11527,1.23489 l -0.22653,1.89811"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
